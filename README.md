@@ -5,7 +5,7 @@ This repository was created while learning GraphQL Apollo client  for the first 
 
 [Playlist Link](https://www.youtube.com/playlist?list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx) || [Original Repository Link](https://github.com/bradtraversy/spacex_launch_stats) || [Original Data Source](https://docs.spacexdata.com/)
 
-
+## [Live Peoject](https://spacex-launch.netlify.app/)
 ### Frontend Technology:
 * React.js
 * Apollo Client
